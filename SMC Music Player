@@ -17,7 +17,7 @@
 #player #seeker{ right:320px; }  
 #player #seekerBase{ border-color:#000000;  }
 #player #seekerBuffered{ background-color:#eeeeee ; }
-#player #seekerSliderBase{ background-color:#aaa; }
+#player #seekerSliderBase{ background-color:#eee; }
 
 #player #volume{ width:65px; right:39px; } 
 #player #volumeSlider{ width:8px; background:url(http://static.tumblr.com/su8juwr/I64mkjm26/branco.png); }
@@ -25,9 +25,9 @@
 #playlist,#playlist .module,#playlist h3{ border-color:#000000;}
 #playlist .module{  color:#eeeeee; background-color:#000000; }
 #playlist h3{ background:url(http://static.tumblr.com/su8juwr/7nJmlnz49/pensamentos-antigos.jpg); color:#eeeeee; background-color:#000000;  }
-#playlist .even{background-color:#fff;}
-#playlist .odd{ background-color:#fff;}
-#playlist .focus{ background-color:#eeeeee; color:#aaa;}       
+#playlist .even{background-color:#000;}
+#playlist .odd{ background-color:#000;}
+#playlist .focus{ background-color:#eeeeee; color:#eee;}       
 
 
                                                      Skin feita por: pensamentos-antigos, NÃO PLAGIE.     
